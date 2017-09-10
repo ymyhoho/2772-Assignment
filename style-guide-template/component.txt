@@ -1,3 +1,20 @@
+style guide
+
+
+
+menu
+
+
+
+
+1.branding
+Our branding is make by to type of colour.  
+
+
+
+
+
+
 Map video browser:
 1.map display (google map)
 2.list to store place name and detail
