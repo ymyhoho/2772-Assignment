@@ -195,17 +195,17 @@ xButtons
 .no-touch .btn:hover {
   background: #759de8;
 }
-.btn.btn-success {
-  background: #6fce72;
+.btn.btn-yellow {
+  background: #ffd700;
 }
-.no-touch .btn.btn-success:hover {
-  background: #82d485;
+.no-touch .btn.btn-yellow:hover {
+  background: #f0e68c;
 }
-.btn.btn-alert {
-  background: #e4655f;
+.btn.btn-black {
+  background: #000000;
 }
-.no-touch .btn.btn-alert:hover {
-  background: #e87a75;
+.no-touch .btn.btn-black:hover {
+  background: #696969;
 }
 .btn.btn-outline {
   color: #5f8ee4;
@@ -953,7 +953,12 @@ section:nth-of-type(6) h2::before {
 .cd-icons .cd-icon-8 {
   background-image: url("../assets/icons/icon-8.svg");
 }
-
+.cd-icons .cd-icon-9 {
+  background-image: url("../assets/icons/facebook.svg");
+}
+.cd-icons .cd-icon-10 {
+  background-image: url("../assets/icons/twitter.svg");
+}
 /* xForm section - basic style */
 .cd-form input[type=text],
 .cd-form .cd-input-wrapper {
