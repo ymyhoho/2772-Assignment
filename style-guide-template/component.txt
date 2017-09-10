@@ -15,16 +15,24 @@ The logo is a position mark on google map showing this webside's use, yellow col
 The colors we choose is blue, black, red, yellow and white. We don't want to use too many colors to make our webside messy. Therefore black for most of text, white for back ground, blue and yellow for hightlight and little bit red for notification.
 
 3.Typography
-The font we choose for heading (h1, h2) is "Open Sans".
+The font we choose for heading (h1, h2) is "Open Sans". and Times New Roman for body text.
+
+4.Buttons
+We have 3 different kinds of button, blue, yellow and black. The chose of use will depend on the web page's main color.
+
+5.Icons
+The icons we use will have share link to facebook and twitter. These icon will be use on button.
+
+6.Form
+There are 6 type for use to input. Three for text input and 3 for selcet input. When user want to input, normal form will display with gray frame. If input is success, the frame will become green. If input is fail, the frame will become red. The focusing input form will have yellow frame to keep attation of user. 
+
+7.Map
+Therefore a map display tools will be needed. The map tools is using GoogleMaps API.
 
 
 
-Therefore a map display tools will be needed. The map tools is using GoogleMaps AP
 
-
-
-
-
+8.Identify of the web components:
 
 Map video browser:
 1.map display (google map)
