@@ -5,7 +5,7 @@ xBackground
 -------------------------------- */
 body {
   /* this is the page background */
-  background-color: #ffffff;
+  background-color: #f0f8ff;
 }
 
 /* -------------------------------- 
@@ -44,10 +44,10 @@ header {
 
 .cd-main-nav {
   /* main navigation background color - full screen on small devices */
-  background: #19191a;
+  background: #f0f8ff;
 }
 .cd-main-nav li a {
-  color: #ffffff;
+  color: #000000;
   border-color: #262627;
 }
 @media only screen and (min-width: 1024px) {
