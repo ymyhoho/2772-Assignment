@@ -265,7 +265,7 @@ input[type=text].alert {
   box-shadow: 0 0 6px rgba(228, 101, 95, 0.2);
 }
 input[type=text]:focus {
-  border-color: #5f8ee4;
+  border-color: #ffd700;
   box-shadow: 0 0 6px rgba(95, 142, 228, 0.2);
 }
 
