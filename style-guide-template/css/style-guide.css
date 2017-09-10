@@ -158,6 +158,7 @@ section > h2::before {
 }
 
 p {
+	font-family:"Times New Roman";
   font-size: 1.4rem;
   line-height: 1.4;
   color: #58585b;
