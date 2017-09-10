@@ -7,8 +7,19 @@ menu
 
 
 
-1.branding
-Our branding is make by to type of colour.  
+1.Branding
+Our branding is make by the use of our webside. our website is going to be a map video browser to introduce the hometown of every group menber.
+The logo is a position mark on google map showing this webside's use, yellow color for ground and bule color for ocean. The acronym from both our teammate's name is been put in the middle showing our teammate are in the same place now.
+
+2.Colors
+The colors we choose is blue, black, red, yellow and white. We don't want to use too many colors to make our webside messy. Therefore black for most of text, white for back ground, blue and yellow for hightlight and little bit red for notification.
+
+3.Typography
+The font we choose for heading (h1, h2) is "Open Sans".
+
+
+
+Therefore a map display tools will be needed. The map tools is using GoogleMaps AP
 
 
 
