@@ -1,0 +1,11 @@
+Map video browser:
+1.map display (google map)
+2.list to store place name and detail
+3.video when user click into the list (part of detail)
+4.back to front page button
+
+Single page blog CMS
+1.
+2.
+3.
+4.
