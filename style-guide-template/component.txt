@@ -5,7 +5,7 @@ Map video browser:
 4.back to front page button
 
 Single page blog CMS
-1.
-2.
-3.
-4.
+1.display individual blog post
+2.list of blog posts
+3.display the most recent post
+4.can see individual blog posts
