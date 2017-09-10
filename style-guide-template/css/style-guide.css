@@ -154,10 +154,11 @@ h2 {
 
 section > h2::before {
   /* number before each section title */
-  color: silver;
+  color: black;
 }
 
 p {
+	font-family:"Times New Roman";
   font-size: 1.4rem;
   line-height: 1.4;
   color: #58585b;
@@ -722,6 +723,9 @@ section:nth-of-type(5) h2::before {
 }
 section:nth-of-type(6) h2::before {
   content: '6. ';
+}
+section:nth-of-type(7) h2::before {
+  content: '7. ';
 }
 @media only screen and (min-width: 768px) {
   section {
