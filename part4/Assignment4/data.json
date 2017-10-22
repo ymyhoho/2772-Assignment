@@ -1,0 +1,42 @@
+{
+  "marker": [
+    {
+      "name": "Adelaide Zoo",
+      "lat": -34.912927,
+      "lng": 138.606906
+    },
+    {
+      "name": "Rundle Mall",
+      "lat": -34.922763,
+      "lng": 138.603258
+    },
+    {
+      "name": "Central Market",
+      "lat": -34.929501,
+      "lng": 138.597561
+    },
+    {
+      "name": "Victoria Square",
+      "lat": -34.928129,
+      "lng": 138.599911
+    }
+  ],
+  "videos": [
+    {
+      "URL": "https://www.youtube.com/watch?v=bt-ibf05RZI",
+      "title": "A Day at Adelaide Zoo"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=ujEEC36Lr3c",
+      "title": "A Walk Through Rundle Mall, Adelaide, Australia"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=K-4UMTQXAP8",
+      "title": "Adelaide central market"
+    },
+    {
+      "URL": "https://www.youtube.com/watch?v=Lp_qqM4deAI",
+      "title": "Victoria Square Development"
+    }
+  ]
+}
