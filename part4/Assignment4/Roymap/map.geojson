@@ -1,0 +1,57 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "Victoria Square"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 138.599911,
+                                 -34.928129
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "Rundle Mall"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 138.603258,
+                                 -34.922763
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "Central Market"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 138.597561,
+                                 -34.929501
+                                 ]
+                 }
+                 },
+                 {
+                 "type": "Feature",
+                 "properties": {
+                 "name": "Adelade Zoo"
+                 },
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 138.606906,
+                                 -34.912927
+                                 ]
+                 }
+                 }
+                 ]
+}
