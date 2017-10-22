@@ -1,0 +1,61 @@
+eqfeed_callback(
+{
+	"type":"FeatureCollection","features":[
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-34.928129,
+					138.599911
+				]
+			},
+			"name":"Victoria Square",
+			"videoTitle":"Victoria Square Development",
+			"videoUrl":"https://www.youtube.com/watch?v=Lp_qqM4deAI",
+			"InfoWindowUrl":"Lp_qqM4deAI"
+		},
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-34.922763,
+					138.603258
+				]
+			},
+			"name":"Rundle Mall",
+			"videoTitle":"A Walk Through Rundle Mall, Adelaide, Australia",
+			"videoUrl":"https://www.youtube.com/watch?v=ujEEC36Lr3c",
+			"InfoWindowUrl":"ujEEC36Lr3c"
+		},
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-34.929501,
+					138.597561
+				]
+			},
+			"name":"Central Market",
+			"videoTitle":"Adelaide central market",
+			"videoUrl":"https://www.youtube.com/watch?v=K-4UMTQXAP8",
+			"InfoWindowUrl":"K-4UMTQXAP8"
+		},
+		{
+			"type":"Feature",
+			"geometry":{
+				"type":"Point",
+				"coordinates":[
+					-34.912927,
+					138.606906
+				]
+			},
+			"name":"Adelaide Zoo",
+			"videoTitle":"A Day at Adelaide Zoo",
+			"videoUrl":"https://www.youtube.com/watch?v=bt-ibf05RZI",
+			"InfoWindowUrl":"bt-ibf05RZI"
+		}
+	]
+});
