@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="maps.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript" src="maps.js"></script>
+    <script src="http://maps.google.com/maps?file=api&v=2&key=AIzaSyC5UfCNkZqAMvqaiWWSHbt4ejAnwaAuCKI&sensor=false"
+            type="text/javascript" charset="utf-8"></script>
+    </script>
+	<title>MAP</title>
+  </head>
+  <body onload="initialize()" onunload="GUnload()">
+	  <div id="map"></div>
+      <form>
+      <p>
+      <input type="button" id="btn" value="download" onclick="downloadData()" />
+      </p>
+      </form>
+	  
+	  <script>/*
+  <body>
+    <h3>My Google Maps</h3>
+    <div id="map"></div>
+    <script>		
+		
+      function initMap() {
+		var Victoria = {lat: -34.928129, lng: 138.599911};
+		var Rundle = {lat: -34.922763, lng: 138.603258};
+		var Zoo = {lat: -34.912927, lng: 138.606906};
+		var Central = {lat: -34.929501, lng: 138.597561};
+		
+        var map = new google.maps.Map(document.getElementById('map'), {
+          zoom: 14,
+          center: Victoria
+        });
+		
+		var contentString= '<div><iframe width="560" height="315" src="https://www.youtube.com/embed/bt-ibf05RZI?rel=0" frameborder="0" allowfullscreen></iframe></div>';
+		var infowindow = new google.maps.InfoWindow({
+			position: Zoo,
+			content: contentString
+		});
+		infowindow.open(map,marker);
+		
+        var marker = new google.maps.Marker({
+          map: map,
+		  draggable: true,
+			animation: google.maps.Animation.DROP,
+		  position: Victoria,
+        });
+        var marker = new google.maps.Marker({
+          map: map,
+		  draggable: true,
+			animation: google.maps.Animation.DROP,
+		  position: Rundle,
+        });
+        var marker = new google.maps.Marker({
+          map: map,
+		  draggable: true,
+			animation: google.maps.Animation.DROP,
+		  position: Zoo,
+        });
+        var marker = new google.maps.Marker({
+          map: map,
+		  draggable: true,
+			animation: google.maps.Animation.DROP,
+		  position: Central,
+        });
+		google.maps.event.addListener(marker, 'click', clickEventFunc);
+      }
+	  
+	  
+	  function clickEventFunc(event) {
+		  infowindow.open(map,marker);
+	      }*/
+    </script>
+		  
+  </body>
+</html>
