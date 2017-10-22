@@ -22,13 +22,13 @@
           var latLng = new google.maps.LatLng(coords[0],coords[1]);
           var marker = new google.maps.Marker({position: latLng, map: map});
           var video = '<div><iframe width="300" height="200" src="https://www.youtube.com/embed/'
-                    +results.features[i].InfoWindowUrl+'?rel=0" frameborder="0" allowfullscreen></iframe></div>';
+                    +results.features[i].properties.InfoWindowUrl+'?rel=0" frameborder="0" allowfullscreen></iframe></div>';
           var contentString = results.features[i].properties.place + results.features[i].properties.info + video + results.features[i].videoUrl;
-        
-        }
-        var infoWindow = new google.maps.InfoWindow({content: contentString});
+          var infoWindow = new google.maps.InfoWindow({content: contentString});
           marker.addListener('click', function(){
-          infoWindow.open(map, marker)});
-
-
+          infoWindow.open(map, this)});
+        }
+    
+          
       }
+      
