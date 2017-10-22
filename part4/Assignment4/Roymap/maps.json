@@ -6,7 +6,7 @@ eqfeed_callback({"type":"FeatureCollection","features":[
   "properties":{"place":"Rundle Mall",},
                 "geometry":{"type":"Point","coordinates":[-34.922763,138.603258]},"id":"2"},
 {"type":"Feature",
-  "properties":{"place":"Central Market",},
+  "properties":{"place":"<h1>Central Market</h1>", "info":"<p>Established in 1869, the Adelaide Central Market has been a thriving hub of food and culture for over 148 years. With over 80 traders under one roof, the Adelaide Central Market is one of the largest under cover market in the Southern Hemisphere, buzzing with life and colour all year round. The Market offers a huge range of fresh food including fruit and vegetables, meat and poultry, seafood, cheeses, bakery, small goods and health foods, along with some of Adelaide's most popular cafes and eateries. With over 8.5 million visitors every year, the Adelaide Central Market remains the food Mecca for multicultural cuisine and fresh produce.</p>", "video":"https://youtu.be/K-4UMTQXAP8"},
                 "geometry":{"type":"Point","coordinates":[-34.929501,138.597561]},"id":"3"}
 
 ]});
