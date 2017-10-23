@@ -1,9 +1,15 @@
-eqfeed_callback({"type":"FeatureCollection","features":[
+feed_callback({"type":"FeatureCollection","features":[
 {"type":"Feature",
-  "properties":{"place":"Victoria Square",},
+  "properties":{"place":"<h1>Victoria Square</h1>",
+                "info":"<p>Victoria Square/Tarntanyangga was recently redeveloped and is now host to a diverse range of events and activities in the heart of the City. Traversed by the tram, it's easy to access and with cafes and the Adelaide Central Market nearby there's always plenty to see and do, in and around the Square.</p>", 
+                "videoUrl":"https://www.youtube.com/watch?v=Lp_qqM4deAI",
+                "InfoWindowUrl":"Lp_qqM4deAI"},
   "geometry":{"type":"Point","coordinates":[-34.928129,138.599911]},"id":"1"},
 {"type":"Feature",
-  "properties":{"place":"Rundle Mall",},
+  "properties":{"place":"<h1>Rundle Mall</h1>",
+                "info":"<p>The Rundle Mall Precinct is the heart of South Australian retail, circulating the freshest of fashion, beauty, lifestyle and food into the City of Adelaide. Bounded by the southern side of North Terrace, the eastern side of King William Street, the northern side of Grenfell Street and the western side of Pulteney Street, the precinct has Rundle Mall as its centerpiece.</p>", 
+                "videoUrl":"https://www.youtube.com/watch?v=ujEEC36Lr3c",
+                "InfoWindowUrl":"ujEEC36Lr3c"},
   "geometry":{"type":"Point","coordinates":[-34.922763,138.603258]},"id":"2"},
 {"type":"Feature",
   "properties":{"place":"<h1>Central Market</h1>", 
